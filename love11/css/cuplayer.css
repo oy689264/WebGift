@@ -1,7 +1,7 @@
 ﻿@charset 'utf-8';
 body {overflow-x:hidden;  font-family: '微软雅黑';}
 .icon-pause,
-.icon-play { display: inline-block; width: 32px; height: 32px; background: url(../images/icon-music.png); background-size: 32px 32px; }
+.icon-play { display: inline-block; width: 32px; height: 32px; background: url(../img/icon-music.png); background-size: 32px 32px; }
 .rotate {
     -webkit-animation: rotating 1.2s linear infinite;
     -moz-animation: rotating 1.2s linear infinite;
